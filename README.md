@@ -43,7 +43,6 @@ Como técnico em formação, também desenvolvo as minhas lógicas de programaç
 ## 📫 Como entrar em contacto comigo:
 
 - **Email:** [Mullerdutralorenzo@gmail.com](mailto:Mullerdutralorenzo@gmail.com)
-- **LinkedIn:** [O Teu Perfil do LinkedIn Aqui](#) *(Substitui este link pelo teu LinkedIn quando o tiveres)*
 - **Localização:** Camaquã, RS - Brasil
 
 ---
