@@ -2,7 +2,7 @@
 
 ### Técnico de Informática | Help Desk | Entusiasta de Hardware e Desenvolvimento
 
-Sou estudante do 3º ano do curso Técnico de Informática integrado ao Ensino Médio no **IFSUL** (conclusão prevista para 2026) e atualmente trabalho na área de TI da **Santalúcia Alimentos LTDA**. 
+Sou estudante do 3º ano do curso Técnico de Informática integrado ao Ensino Médio no **IFSUL** (conclusão prevista para 2027) e atualmente trabalho na área de TI da **Santalúcia Alimentos LTDA**. 
 
 Tenho uma forte paixão por resolver problemas, otimizar sistemas e garantir que a infraestrutura tecnológica funcione com excelência. Criei este GitHub para partilhar os meus scripts de automação, documentações de suporte e também os meus projetos de código.
 
