@@ -14,7 +14,7 @@ O meu perfil está dividido em duas grandes áreas de foco:
 
 ### ⚙️ Infraestrutura, Hardware e Suporte (Help Desk)
 Atuo diariamente com manutenção preventiva, diagnóstico de falhas e recuperação de dados. Aqui poderás encontrar:
-- **Scripts de Automação:** Ficheiros `.bat` e `PowerShell` para limpeza de ficheiros temporários e otimização do Windows.
+- **Scripts de Automação:** Ficheiros `.bat` e `PowerShell`.
 - **Base de Conhecimento:** Guiões e documentação passo a passo para resolução de chamados frequentes (utilizando metodologias de sistemas como o GLPI).
 - **Manuais de Diagnóstico:** Procedimentos de testes de bancada para componentes (RAM, SSD/HDD, etc.).
 
