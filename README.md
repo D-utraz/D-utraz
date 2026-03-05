@@ -22,8 +22,7 @@ Atuo diariamente com manutenção preventiva, diagnóstico de falhas e recupera�
 Como técnico em formação, também desenvolvo as minhas lógicas de programação. Nesta secção partilho:
 - Projetos académicos desenvolvidos no IFSUL.
 - Aplicações simples e scripts focados na facilitação do dia a dia da área de TI.
-- Experiências com linguagens de programação e marcação (HTML/CSS, etc.).
-
+  
 ---
 
 ## 🚀 Tecnologias e Ferramentas
@@ -37,7 +36,7 @@ Como técnico em formação, também desenvolvo as minhas lógicas de programaç
 **Desenvolvimento e Escritório:**
 - Pacote Office Avançado (Word, Excel)
 - Lógica de Programação
-- *(Podes adicionar aqui linguagens que estejas a aprender, ex: Python, HTML, CSS, C++)*
+- Java, C, Pascal
 
 ---
 
