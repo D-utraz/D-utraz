@@ -36,7 +36,7 @@ Como técnico em formação, também desenvolvo as minhas lógicas de programaç
 **Desenvolvimento e Escritório:**
 - Pacote Office Avançado (Word, Excel)
 - Lógica de Programação
-- Java, C, Pascal
+- Java, C, Css, Pascal
 
 ---
 
